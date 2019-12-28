@@ -1,7 +1,7 @@
 > Just an excuse to learn how to host your own website using GitHubPages.
 > I have tried to organize and show the work that I have done during a Big Data course at the **Universidad Complutense** in Madrid.
 
-<div style = "color: #7a6b42; background-color: #dec27a; position: relative; padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;" >
+<div style = "color: #5c5032; background-color: #dec27a; position: relative; padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;" >
   
   <b>Warning</b>:  All the essays available here are written in Spanish!
 
