@@ -2,7 +2,9 @@
 > I have tried to organize and show the work that I have done during a Big Data course at the *Universidad Complutense* in Madrid.
 
 <div style = "color: #856404; background-color: #dec27a; position: relative; padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;" >
-All the essays available here are written in Spanish!
+  
+**Warning** All the essays available here are written in Spanish!
+
 </div>
 
 # Big Data & Business Analytics
