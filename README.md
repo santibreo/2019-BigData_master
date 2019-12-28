@@ -3,7 +3,7 @@
 
 <div style = "color: #7a6b42; background-color: #dec27a; position: relative; padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;" >
   
-**Warning** All the essays available here are written in Spanish!
+  <b>Warning</b>:  All the essays available here are written in Spanish!
 
 </div>
 
