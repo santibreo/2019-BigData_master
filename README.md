@@ -1,5 +1,5 @@
 > Just an excuse to learn how to host your own website using GitHubPages.
-> I have tried to organize and show the work that I have done during a Big Data course at the *Universidad Complutense* in Madrid.
+> I have tried to organize and show the work that I have done during a Big Data course at the **Universidad Complutense** in Madrid.
 
 <div style = "color: #7a6b42; background-color: #dec27a; position: relative; padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;" >
   
@@ -18,10 +18,10 @@ This master consisted in 10 h/week of in-person classes, and more than 20 module
 * From `SELECT *` to User Defined Functions.
 * Normalization and normal forms.
 
-During this module I was still using Latex to make my documents, and compiling them to `.pdf`.
+During this module I was still using Latex to make my documents, and compiling them to `pdf`.
 
 <center>
   
-[DOWNLOAD THE FINAL ESSAY]()
+  [DOWNLOAD THE FINAL ESSAY]()
 
 </center>
