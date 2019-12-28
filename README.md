@@ -1,7 +1,7 @@
 > Just an excuse to learn how to host your own website using GitHubPages.
 > I have tried to organize and show the work that I have done during a Big Data course at the *Universidad Complutense* in Madrid.
 
-<div class="alert alert-success">
+<div class="alert">
 All the essays available here are written in Spanish!
 </div>
 
@@ -19,5 +19,7 @@ This master consisted in 10 h/week of in-person classes, and more than 20 module
 During this module I was still using Latex to make my documents, and compiling them to `.pdf`.
 
 <center>
+  
 [DOWNLOAD THE FINAL ESSAY]()
+
 </center>
