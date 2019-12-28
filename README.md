@@ -1,1 +1,4 @@
-# Big Data & Business Analytics - UCM
+> Just an excuse to learn how to host your own website using GitHubPages.
+
+# Objective
+I have tried to organize and show the work that I have done during a Big Data course in the UCM.
