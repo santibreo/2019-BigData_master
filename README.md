@@ -20,7 +20,4 @@ This master course consisted in 10 h/week of in-person classes, and more than 20
 
 During this module I was still using Latex to make my documents, and compiling them to `pdf`.
 
-<button class="final-essay-btn"> Download Final Essay
-<div class="final-essay-btn__horizontal"></div>
-<div class="final-essay-btn__vertical"></div>
-</button>
+[Download Final Essay](https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/01_SQLbbdd.pdf)
