@@ -37,7 +37,7 @@ DOWNLOAD FINAL ESSAY
 During this module I was still using Latex to make my documents, and compiling them to `pdf`.
 
 <p align="center">
-<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/01_NoSQL_bbdd.pdf">
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/02_NoSQL_bbdd.pdf">
 DOWNLOAD FINAL ESSAY
 </a>
 </p>
