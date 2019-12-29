@@ -21,7 +21,24 @@ This master course consisted in 10 h/week of in-person classes, and more than 20
 During this module I was still using Latex to make my documents, and compiling them to `pdf`.
 
 <p align="center">
-<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/01_SQLbbdd.pdf">
-Download Final Essay
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/01_SQL_bbdd.pdf">
+DOWNLOAD FINAL ESSAY
 </a>
 </p>
+
+## NoSQL Databases:
+
+* Document-based databases as an alternative.
+* Databases theory. CAP diagram.
+* **Mongo**. How does it work?.
+* Run **Mongo** server. Cloud & local.
+* **Mongo** syntax.
+
+During this module I was still using Latex to make my documents, and compiling them to `pdf`.
+
+<p align="center">
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/01_NoSQL_bbdd.pdf">
+DOWNLOAD FINAL ESSAY
+</a>
+</p>
+
