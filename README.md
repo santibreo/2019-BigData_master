@@ -70,7 +70,7 @@ I decided to start using **Rmarkdown** to generate my documents, and
 compile them to `html` (if allowed).
 
 <p align="center">
-<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/04_R.html">
-DOWNLOAD FINAL ESSAY
+<a class="btn" href="essays/04_R.html">
+ VISIT FINAL ESSAY
 </a>
 </p>
