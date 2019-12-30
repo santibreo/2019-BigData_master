@@ -88,6 +88,7 @@ I used **Rmarkdown** and compile the essay to `html`.
 <a class="btn" href="essays/05_statistics.html">
  VISIT FINAL ESSAY
 </a>
+</p>
 
 ## Lineal and Logistic regressions:
 
@@ -103,6 +104,7 @@ I used **Rmarkdown** and compile the essay to `html`.
 <a class="btn" href="essays/06_regressions.html">
  VISIT FINAL ESSAY
 </a>
+</p>
 
 ## Principal Component Analysis:
 
@@ -118,6 +120,7 @@ I used **Rmarkdown** and compile the essay to `html`.
 <a class="btn" href="essays/07_PCA.html">
  VISIT FINAL ESSAY
 </a>
+</p>
 
 ## Timeseries:
 
@@ -133,6 +136,7 @@ I used **Rmarkdown** and compile the essay to `html`.
 <a class="btn" href="essays/08_timeseries.html">
  VISIT FINAL ESSAY
 </a>
+</p>
 
 ## Machine Learning:
 
@@ -148,6 +152,7 @@ I used **Rmarkdown** and compile the essay to `pdf`.
 <a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/09_ML.pdf">
  DOWNLOAD FINAL ESSAY
 </a>
+</p>
 
 ## Competition:
 
@@ -161,6 +166,7 @@ I used **Rmarkdown** and compile the essay to `html`.
 <a class="btn" href="essays/10_competition.html">
  VISIT FINAL ESSAY
 </a>
+</p>
 
 ## Graph Theory:
 
@@ -176,3 +182,4 @@ I used **Rmarkdown** and compile the essay to `pdf`.
 <a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/11_social_nets.pdf">
  DOWNLOAD FINAL ESSAY
 </a>
+</p>
