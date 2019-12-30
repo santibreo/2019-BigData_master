@@ -66,7 +66,7 @@ DOWNLOAD FINAL ESSAY
 * Functions. Use and define. Plotting tools.
 * Further steps.
 
-Now I decided to start using **Rmarkdown** to generate my documents, and
+I decided to start using **Rmarkdown** to generate my documents, and
 compile them to `html` (if allowed).
 
 <p align="center">
