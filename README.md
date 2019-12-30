@@ -42,3 +42,19 @@ DOWNLOAD FINAL ESSAY
 </a>
 </p>
 
+## Google Cloud Computing:
+
+* Cloud-based computing. SaaS, PaaS and IaaS.
+* Google Cloud main services.
+* Google Cloud Big Data services.
+* Big Data codelabs.
+* Real life examples.
+
+During this module I was still using Latex to make my documents, and compiling them to `pdf`.
+
+<p align="center">
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/03_GCP.pdf">
+DOWNLOAD FINAL ESSAY
+</a>
+</p>
+
