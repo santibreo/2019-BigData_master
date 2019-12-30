@@ -66,11 +66,113 @@ DOWNLOAD FINAL ESSAY
 * Functions. Use and define. Plotting tools.
 * Further steps.
 
-I decided to start using **Rmarkdown** to generate my documents, and
-compile them to `html` (if allowed).
+I decided to start using **Rmarkdown** to generate my documents, and compile them to `html` (if allowed).
 
 <p align="center">
 <a class="btn" href="essays/04_R.html">
  VISIT FINAL ESSAY
 </a>
 </p>
+
+## Statistics:
+
+* Descriptive Statistics. Types of variables.
+* Centrality, dispersion and shape measures. 
+* Bidimensional distributions. Correlation.
+* Usual probability distributions. Confidence intervals.
+* Hypothesis testing.
+
+I used **Rmarkdown** and compile the essay to `html`.
+
+<p align="center">
+<a class="btn" href="essays/05_statistics.html">
+ VISIT FINAL ESSAY
+</a>
+
+## Lineal and Logistic regressions:
+
+* Data understanding. 
+* Test for independence. 
+* Lineal regression.
+* Logistic regression.
+* Variable selection.
+
+I used **Rmarkdown** and compile the essay to `html`.
+
+<p align="center">
+<a class="btn" href="essays/06_regressions.html">
+ VISIT FINAL ESSAY
+</a>
+
+## Principal Component Analysis:
+
+* Multivariational data techniques.
+* Theory.
+* Application with R.
+* Visualization with R.
+* Interpretation.
+
+I used **Rmarkdown** and compile the essay to `html`.
+
+<p align="center">
+<a class="btn" href="essays/07_PCA.html">
+ VISIT FINAL ESSAY
+</a>
+
+## Timeseries:
+
+* Descriptive Initial Analysis. Timeseries decomposition.
+* Correlation vs causality. Cointegration test.
+* Univariate Dynamic Models: ARIMA.
+* Dynamic Models with static regressors: ARIMAX.
+* Multivariate Dynamic Linear Models: VAR.
+
+I used **Rmarkdown** and compile the essay to `html`.
+
+<p align="center">
+<a class="btn" href="essays/08_timeseries.html">
+ VISIT FINAL ESSAY
+</a>
+
+## Machine Learning:
+
+* Artificial Neural Networks.
+* Tree-based models. Decision trees - bagging - random forest - gradient boosting.
+* Support Vector Machines.
+* Ensemble techniques.
+* Deep Learning.
+
+I used **Rmarkdown** and compile the essay to `pdf`.
+
+<p align="center">
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/09_ML.pdf">
+ DOWNLOAD FINAL ESSAY
+</a>
+
+## Competition:
+
+This module make us participate in [this
+competiton](https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/)
+in teams of 5 or 6 students, and apply the agile workflow to get the best model.
+
+I used **Rmarkdown** and compile the essay to `html`.
+
+<p align="center">
+<a class="btn" href="essays/10_competition.html">
+ VISIT FINAL ESSAY
+</a>
+
+## Graph Theory:
+
+* Application fields.
+* Degree distribution and categorization.
+* Distance analysis.
+* Centrality measures. Closeness and Betweenness.
+* Closest nodes and paths. Dijkstra algorithm.
+
+I used **Rmarkdown** and compile the essay to `pdf`.
+
+<p align="center">
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/11_social_nets.pdf">
+ DOWNLOAD FINAL ESSAY
+</a>
