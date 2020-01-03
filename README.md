@@ -8,7 +8,15 @@
 </div>
 
 # Big Data & Business Analytics
-This master course consisted in 10 h/week of in-person classes, and more than 20 modules that took between 1 and 6 weeks. Not all these modules have asked for a final essay about its subject, but most of them did, so here I have decided to present all of them.
+This master course consisted in 10 h/week of in-person classes, and more than 20 modules that took between 1 and 6 weeks. Not all these modules have asked for a final essay about its subject, but most of them did, so here I have decided to present all of them. Modules that won't be shown:
+
+1. Introduction - Business Intelligence
+2. Python
+3. DataScience workflow
+4. Text Mining
+5. Open Data
+6. Distributed Computation - Spark
+7. DevOps
 
 ## SQL Databases:
 
