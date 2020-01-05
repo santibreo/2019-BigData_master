@@ -193,10 +193,10 @@ I used **Rmarkdown** and compile the essay to `pdf`.
 </a>
 </p>
 
-## Final Master's Degree Project:
+## Final Project:
 
 Last module was a collaboration with San Carlos Hospital to make 3 ML
-models that detects reentries, duration of the hospitalisation and kind of
+models that detects reentries, duration of the hospitalisation and type of
 hospital discharge. We made it in groups of 6 students.
 
 I used **Rmarkdown** and compile the essay to `html`. I have ommited some
