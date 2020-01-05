@@ -1,4 +1,5 @@
 > Just an excuse to learn how to host your own website using GithubPages.
+
 > I have tried to organize and show the work that I have done during a Big Data course at the **Universidad Complutense** in Madrid.
 
 <div style = "color: #5c5032; background-color: #dec27a; position: relative; padding: .75rem 1.25rem; margin-bottom: 1rem; border: 1px solid transparent; border-radius: .25rem;" >
@@ -191,3 +192,17 @@ I used **Rmarkdown** and compile the essay to `pdf`.
  DOWNLOAD FINAL ESSAY
 </a>
 </p>
+
+## Final Master's Degree Project:
+
+Last module was a collaboration with San Carlos Hospital to make 3 ML
+models that detects reentries, duration of the hospitalisation and kind of
+hospital discharge. We made it in groups of 6 students.
+
+I used **Rmarkdown** and compile the essay to `html`. I have ommited some
+content.
+
+<p align="center">
+<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/12_tfm.html">
+ VISIT FINAL ESSAY
+</a>
