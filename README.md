@@ -203,6 +203,6 @@ I used **Rmarkdown** and compile the essay to `html`. I have ommited some
 content.
 
 <p align="center">
-<a class="btn" href="https://github.com/santibreo/BigData-BA_mastering/raw/master/essays/12_tfm.html">
+<a class="btn" href="essays/12_tfm.html">
  VISIT FINAL ESSAY
 </a>
